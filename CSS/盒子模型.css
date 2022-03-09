@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.all{
+	width: 360px;
+	margin: 20px auto;
+}
+img{
+	height:90px;
+	width: 160px;
+}
+.out{
+	float:left;
+}
+.inner{
+	width: 160px;
+	height: 90px;
+	border: 1px solid #ccc;
+	padding: 5px;
+}
